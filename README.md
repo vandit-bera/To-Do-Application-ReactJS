@@ -17,7 +17,7 @@
 <h3 align="center">To-Do Apllication</h3>
 
   <p align="center">   
-    <a href="">View Live Demo</a>
+    <a href="https://vb-todo-react.vercel.app/">View Live Demo</a>
   </p>
 
 </div>
@@ -55,7 +55,7 @@ This project is presently deployed in **Vercel Service**.
 
 
 
-[Live Project URL]()
+[Live Project URL](https://vb-todo-react.vercel.app/)
 <br>
 
 
