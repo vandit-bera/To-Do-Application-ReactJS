@@ -20,7 +20,7 @@ const Form = () => {
             isEditing: false
         },
         {
-            text: "Learn about NodeJS",
+            text: "Hello! From Vandit😀",
             isCompleted: false,
             isEditing: false
         }
